@@ -55,5 +55,5 @@ Version Control	Git & GitHub
 **👤 Author**
 
 M ARUN B.Sc computer science
-Email: [arunaadvik1@gmail.com](url)
-LinkedIn:  [www.linkedin.com/in/arunaadvik](url)
+Email: [arunaadvik1@gmail.com](arunaadvik1@gmail.com)
+LinkedIn:  [www.linkedin.com/in/arunaadvik](www.linkedin.com/in/arunaadvik)
